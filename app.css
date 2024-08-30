@@ -275,6 +275,18 @@ nav .fa{
 .contact-header{
     background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)), url(images/3.JPG);
 }
+.google-map {
+    padding-bottom: 50%;
+    position: relative;
+}
+
+.google-map iframe {
+    height: 100%;
+    width: 100%;
+    left: 0;
+    top: 0;
+    position: absolute;
+}
 
 /* Styling for small devices */
 @media(max-width: 700px){
