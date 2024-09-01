@@ -88,17 +88,17 @@ nav img{
     text-align: center;
 }
 .text-box h1{
-    font-size: 62px;
+    font-size: 40px;
     padding-top: 0px;
 }
 .text-box p{
-    margin: 10px 0 40px;
+    margin: 10px 0 10px;
     font-size: 25px;
     line-height: 35px;
     color: #fff;
 }
 .text-box img{
-    width: 150px;
+    width: 125px;
     margin-top: 60px;
 }
 
@@ -296,12 +296,12 @@ nav .fa{
         font-size: 30px;
     }
     .text-box p{
-        margin: 10px 0 40px;
+        margin: 10px 0 10px;
         font-size: 15px;
         color: #fff;
     }
     .text-box img{
-        width: 100px;
+        width: 75px;
     }
     .nav-links ul li{
         display: block;
@@ -326,6 +326,11 @@ nav .fa{
     }
     .nav-links ul{
         padding: 30px;
+    }
+
+    nav img{
+        width: 50px;
+
     }
 
     .nav-links ul li a{
