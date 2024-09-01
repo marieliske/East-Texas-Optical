@@ -89,6 +89,7 @@ nav img{
 }
 .text-box h1{
     font-size: 62px;
+    padding-top: 0px;
 }
 .text-box p{
     margin: 10px 0 40px;
@@ -97,7 +98,8 @@ nav img{
     color: #fff;
 }
 .text-box img{
-    width: 200px;
+    width: 150px;
+    margin-top: 60px;
 }
 
 /* Visit us button on header linking to CONTACT page */
@@ -203,7 +205,7 @@ nav .fa{
 }
 
 .sub-header h1{
-    margin-top: 200px;
+    margin-top: 60px;
     font-size: 62px;
 }
 .about-us{
