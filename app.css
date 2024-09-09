@@ -233,7 +233,7 @@ nav .fa{
 
 /*-------------------- SERVICES PAGE ----------------------- */
 .service-header{
-    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)), url(images/4.JPG);
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)), url(images/4.jpg);
 }
 
 .services{
@@ -274,7 +274,7 @@ nav .fa{
 /*-------------------- CONTACT PAGE ----------------------- */
 
 .contact-header{
-    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)), url(images/3.JPG);
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)), url(images/3.jpg);
 }
 
 .google-map {
