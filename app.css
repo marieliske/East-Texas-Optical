@@ -382,4 +382,6 @@ nav .fa{
     .sub-header h1{
         font-size: 40px;
     }
+
+    html, body {overflow-x: hidden;}
 }
